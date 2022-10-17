@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnKPZCheckIn",
+    "slug": "rnKPZCheckIn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnKPZCheckIn"
+}
