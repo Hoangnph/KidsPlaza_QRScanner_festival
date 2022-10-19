@@ -5,6 +5,7 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
+        marginTop: '5%'
     },
     inputContainer: {
         width: '80%',
@@ -44,6 +45,15 @@ const styles = StyleSheet.create({
         color: '#0782F9',
         fontWeight: '700',
         fontSize: 17,
+    },
+    rnholeView: {
+        position: 'absolute',
+        width: '100%',
+        height: '100%',
+        alignSelf: 'center',
+        alignItems: 'center',
+        justifyContent: 'center',
+        backgroundColor: 'rgba(0,0,0,0.5)',
     },
 })
 
